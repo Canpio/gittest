@@ -1,0 +1,2 @@
+this is a test for git.
+I hope I can be a good coder.
